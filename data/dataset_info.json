@@ -623,7 +623,7 @@
     },
     "folder": "python"
   },
-  "Oral_QA": {
+  "Oral_QA_zh_online+gen": {
     "file_name": "Oral_QA_zh_online+gen.json",
     "columns": {
       "prompt": "instruction",
